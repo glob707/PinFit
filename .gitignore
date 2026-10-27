@@ -1,0 +1,5 @@
+.DS_Store
+build/
+dist/
+# Нейросеть подтягивается scripts/fetch-realesrgan.sh при сборке, в git не хранится
+Resources/realesrgan/
